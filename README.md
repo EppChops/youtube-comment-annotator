@@ -9,6 +9,7 @@ This is a simple tool that fetches youtube comments using google's API that then
   `pip install google-api-python-client`
 
 2. Put your google api key in a file named .env
+
   Instructions for getting the api key can be found [here](https://www.geeksforgeeks.org/youtube-data-api-set-1/)
 
 3. Run the program
